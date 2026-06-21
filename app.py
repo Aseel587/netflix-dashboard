@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 import streamlit as st
 import pandas as pd
 import plotly.express as px
@@ -320,7 +320,6 @@ border-left:5px solid #E50914;
 
 st.markdown("---")
 
-=======
 import streamlit as st
 import pandas as pd
 import plotly.express as px
@@ -642,5 +641,4 @@ border-left:5px solid #E50914;
 
 st.markdown("---")
 
->>>>>>> 6366993db7314007f8ff0d045b7ddbbc68f4349d
 st.caption("Prepared by Aseel Sultan| Data Analysis Bootcamp Project")
